@@ -10,7 +10,7 @@ Class 05 [Dataviz with ggplot](class05_files/Class05.md)
 
 Class 06 [R functions](Class6/Class06.md)
 
-Class 07 [Machine Learning 1](Class07/Class07Machine Learning.md)
+Class 07 [Machine Learning 1](Class07/Class07MachineLearning.md)
 
 Class 08 [Machine Learning Mini-Project](Class08/Class08_Mini_Project.md)
 
