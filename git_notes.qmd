@@ -27,6 +27,14 @@ The core steps to using git involve
     `git commit -m "your message`
      
 
+5. Git push to sync changes TO GitHub
+    The Up arrow in RStudio
+    `git push`
+    
+6. Git pull to sync FROM GitHub
+    The down arrow in RStudio
+    `git pull`
+
 
 You can check your project "history" and status
     `git status`
