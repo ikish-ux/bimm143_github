@@ -6,7 +6,6 @@ Classwork from [Bimm143](https://bioboot.github.io/bimm143_W26/) at UC San Diego
 
 Class 04 [R fundamentals](/class04.pdf)
 
-<<<<<<< HEAD
 Class 05 [Dataviz with ggplot](class05_files/Class05.md)
 
 Class 06 [R functions](Class6/Class06.md)
